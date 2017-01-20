@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="enabled">Enable Answering?</string>
+	<string name="which_contacts">Answer Which Calls?</string>
+	<string name="delay">Set Delayer for Answering?</string>
+	<string name="use_speakerphone">Force Speakerphone?</string>
+	<string name="headset_only">Answer with Bluetooth?</string>
+	<string name="no_second_call">Don\'t Answer if In Call?</string>
+    <string name="app_name">Smart Call Manager !!!</string>
+	<string name="notification_title">Smart Call Manager Enabled</string>
+	<string name="notification_text">Select to Enable/Disable/Configure.</string>
+	<string name="usermanual">User Guide</string>
+	<string name="manual">
+	    1. If you click the Enable box, the service will be run on background.\n2. When you choose the caller option, the call will be received in that manner.\n3. By choosing the option "Set Delayer for Answering?", you can choose a delay time to response the call.\n4. You can choose Either Bluetooth or Loudspeaker through which the call will be received. Otherwise the call will be received without loudspeaker or headset.\n5. You can also click the box "Don't answer if in call" to prevent receiving call during a call.
+	    </string>
+	<string name="app">Developer Information</string>
+	<string name="fahad">
+	    This Application is developed by \nFahad Uddin and \nBadruddowja Tarek \nUnder Supervision of \nMd. Shahiduzzaman
+	  \nfrom Dhaka City College\nfor the purpose of Final year project work.\nThis is an experimental work which may be beneficial in the future.\nThank you.
+	</string>
+	<string name="TODO">todo</string>
+</resources>
